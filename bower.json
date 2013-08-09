@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-hover-dropdown",
+  "version": "2.3.2",
+  "main": "bootstrap-hover-dropdown.js",
+  "dependencies": {
+	"bootstrap": ">=2.0.0 <2.3.2",
+	"jquery": ">=1.8.3 <2.1.0"
+  },
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alisamar/twitter-bootstrap-hover-dropdown.git"
+  },
+  "ignore": [
+	"examples",
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
