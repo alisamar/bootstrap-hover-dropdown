@@ -10,12 +10,10 @@
   "description": "ERROR: No README.md file found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alisamar/twitter-bootstrap-hover-dropdown.git"
+    "url": "git://github.com/alisamar/bootstrap-hover-dropdown.git"
   },
   "ignore": [
 	"examples",
-    "**/.*",
-    "node_modules",
     "components"
   ]
 }
